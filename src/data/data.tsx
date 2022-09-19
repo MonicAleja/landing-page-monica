@@ -174,7 +174,7 @@ export const portfolioItems: PortfolioItem[] = [
   {
     title: 'Proyecto Landing Page',
     description: 'Landing Page Hoja de Vida.',
-    url: 'https://timbaker.me',
+    url: 'https://github.com/MonicAleja/react-resume-template',
     image: porfolioImage4,
   },
 ];
