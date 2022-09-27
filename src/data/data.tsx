@@ -17,7 +17,7 @@ import porfolioImage3 from '../images/portfolio/portfolio-3.jpg';
 import porfolioImage4 from '../images/portfolio/portfolio-4.jpg';
 import profilepic from '../images/profilepic12.jpg';
 import testimonialImage from '../images/testimonial.webp';
-import fundacionImage from '../images/logo-campus-ve.jpeg';
+// import fundacionImage from '../images/logo-campus-ve.jpeg';
 import {
   About,
   ContactSection,
@@ -171,12 +171,12 @@ export const portfolioItems: PortfolioItem[] = [
     url: 'https://github.com/MonicAleja/react-resume-template',
     image: porfolioImage4,
   },
-  {
-    title: 'Campus',
-    description: 'Diplomado de React JS.',
-    url: 'https://campus.fundacionmarialuisa.org',
-    image: fundacionImage,
-  },
+  // {
+  //   title: 'Campus',
+  //   description: 'Diplomado de React JS.',
+  //   url: 'https://campus.fundacionmarialuisa.org',
+  //   image: fundacionImage,
+  // },
 ];
 
 /**
